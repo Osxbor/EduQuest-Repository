@@ -1,0 +1,10 @@
+Flask
+Flask-WTF
+Flask-SQLAlchemy
+Flask-Login
+Werkzeug
+Flask-Bcrypt
+
+Secret key
+
+'Nxf6xc1fqxb9wSbxb00xc3xbfrx91bxb5S'
